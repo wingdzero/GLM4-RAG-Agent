@@ -1,0 +1,12 @@
+duckduckgo_search
+faiss-cpu
+langchain
+langchain-community
+unstructured==0.7.12
+fastapi-cli==0.0.3
+gradio
+pdfplumber
+sse_starlette
+pypinyin
+numexpr
+sentence-transformers
